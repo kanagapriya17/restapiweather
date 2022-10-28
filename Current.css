@@ -1,0 +1,18 @@
+.current{
+    background-color: white;
+    color:black;
+width:80vw;
+margin:5vh;
+
+}
+.currentBody{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 8vh;
+    margin:3vh;
+    gap:50
+
+
+
+}
